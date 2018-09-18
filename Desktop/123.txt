@@ -1,0 +1,60 @@
+868 KB/s (84565 bytes in 0.095s)
+who is the head coach of the
+indian national cricket team?
+1 1 40
+ravi shastri
+Time Elapsed : 12.1103551388
+===
+789 KB/s (83389 bytes in 0.103s)
+which state was carved out from
+eastern madhya pradesh?
+12 1 1
+chhattisgarh
+Time Elapsed : 10.6653530598
+===
+962 KB/s (83680 bytes in 0.084s)
+what is the name of the memorial
+dedicated to mahatma gandhi?
+7 0 3
+raj ghat
+Time Elapsed : 10.6861608028
+===
+906 KB/s (84347 bytes in 0.090s)
+which actor founded the
+company raaj kamal films
+international?
+2 61 0
+kamal haasan
+Time Elapsed : 11.0953378677
+===
+857 KB/s (82160 bytes in 0.093s)
+which infamous dacoit was killed
+in operation cocoon?
+22 0 0
+veerappan
+Time Elapsed : 12.3514609337
+===
+853 KB/s (82771 bytes in 0.094s)
+which painter designed "gattu",
+the mascot of asian paints?
+8 0 0
+r.k. laxman
+Time Elapsed : 11.065985918
+===
+864 KB/s (83649 bytes in 0.094s)
+the jamuna river in bangladesh
+is a distributary channel of which
+river?
+3 10 5
+brahmaputra
+Time Elapsed : 10.8638110161
+===
+811 KB/s (86327 bytes in 0.103s)
+the assassination of the
+archduke of which country paved
+the way for world war i?
+1 1 0
+hungary
+Time Elapsed : 10.8098208904
+===
+
